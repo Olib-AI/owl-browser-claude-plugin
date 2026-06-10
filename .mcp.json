@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "owl-browser": {
+      "command": "npx",
+      "args": ["-y", "@olib-ai/owl-browser-mcp"],
+      "env": {
+        "OWL_API_ENDPOINT": "${OWL_API_ENDPOINT}",
+        "OWL_API_TOKEN": "${OWL_API_TOKEN}",
+        "OWL_MCP_PROFILE": "${OWL_MCP_PROFILE}"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "olib-ai",
+  "owner": {
+    "name": "Olib AI",
+    "email": "sales@olib.ai",
+    "url": "https://olib.ai"
+  },
+  "description": "Olib AI plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "owl-browser",
+      "source": "./",
+      "description": "Agent-native browser automation: drive Owl Browser via OwlMark (a compact, handle-addressable page render) and the bundled MCP server. Read pages and act by handle instead of screenshots or pixel coordinates.",
+      "version": "1.2.0",
+      "author": { "name": "Olib AI" },
+      "homepage": "https://www.owlbrowser.net",
+      "license": "MIT",
+      "category": "automation",
+      "keywords": ["browser", "automation", "agent", "mcp", "owlmark", "web"]
+    }
+  ]
+}
