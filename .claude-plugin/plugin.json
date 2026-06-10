@@ -10,6 +10,16 @@
   "homepage": "https://www.owlbrowser.net",
   "repository": "https://github.com/Olib-AI/olib-browser",
   "license": "MIT",
-  "keywords": ["browser", "automation", "agent", "mcp", "owlmark", "web", "scraping", "stealth"],
+  "category": "development",
+  "keywords": [
+    "browser",
+    "automation",
+    "agent",
+    "mcp",
+    "owlmark",
+    "web",
+    "scraping",
+    "stealth"
+  ],
   "mcpServers": "./.mcp.json"
 }
